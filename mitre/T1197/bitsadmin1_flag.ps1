@@ -1,0 +1,1 @@
+echo malwation_msp
